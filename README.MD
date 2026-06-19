@@ -317,10 +317,10 @@ Responsibilities:
 
 ### 👨‍💻 AI Engineer
 
-**Mohamed Alaa Ahmed**
+**Muhammed-AlReay**
 
 GitHub:
-https://github.com/MohamedAlaaAhmed
+https://github.com/Muhammed-AlReay
 
 Responsibilities:
 
